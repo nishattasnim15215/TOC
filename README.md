@@ -9,6 +9,9 @@ T4 GPU
 
 # Installation
 !pip install numpy
+
 !pip install matplotlib
+
 !pip install torch
+
 !pip install celluloid
